@@ -1,0 +1,2 @@
+sudo airmon-ng check kill
+sudo systemctl stop NetworkManager.service

@@ -1,0 +1,1 @@
+echo parol | sudo -S  mdk3 wlan0 b -n " " -g -m -d -h -t  -s 1

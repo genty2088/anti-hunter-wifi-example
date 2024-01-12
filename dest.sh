@@ -1,0 +1,1 @@
+echo parol | sudo -S mdk4 wlan0 f -s b -m b <MAC1> m <MAC2>  -c 1 -p 1

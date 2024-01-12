@@ -1,0 +1,1 @@
+for x in {1..1000000}; do tr -dc A-F0-9 < /dev/urandom | head -c 6 | sed -r 's/(..)/\1:/g;s/:$//;s/^/DA:A1:19:/'; echo " "; done
