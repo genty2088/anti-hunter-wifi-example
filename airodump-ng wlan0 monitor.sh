@@ -1,0 +1,1 @@
+echo parol | sudo -S airodump-ng wlan0 
