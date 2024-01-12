@@ -1,5 +1,7 @@
 Examples of how to protect yourself when your Wi-Fi card is intercepted by hackers!
 
+The materials are posted for educational purposes! And for testing your home network!
+
 
 Warning:
 
